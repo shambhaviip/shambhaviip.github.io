@@ -28,8 +28,7 @@ You'll mainly work with two things:
 - This file controls the website's settings
 - You can edit things like:
   - Website title
-  - Social media links
-  - Navigation menu
+  - Basic home page content
   - Theme settings
 
 ## Workflow
